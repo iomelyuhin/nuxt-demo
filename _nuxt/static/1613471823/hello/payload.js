@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hello", {data:[{rendering:"server",catalog:"cat-01"}],fetch:[],mutations:void 0});
