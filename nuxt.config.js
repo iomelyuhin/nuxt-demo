@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: "static",
-	base: '/nuxt-demo/'
+  base: "/nuxt-demo/",
   head: {
     title: "hello",
     htmlAttrs: {
